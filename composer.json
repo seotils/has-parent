@@ -1,0 +1,23 @@
+{
+    "name": "seotils/has-parent",
+    "description": "The trait allows set and get parent class of instance.",
+    "license": "GPL-3.0",
+    "keywords": ["traits", "parent class"],
+    "homepage": "https://github.com/seotils/has-parent",
+    "authors": [
+        {
+            "name": "deMagog",
+            "email": "seotils@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.0",
+        "seotils/deferred-exceptions": ">=0.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Seotils\\Traits": "src/"
+        }
+    }
+}

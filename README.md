@@ -10,8 +10,16 @@ HasParent is open-sourced software licensed under the [GPL-3.0] (https://www.gnu
 
 ## Requirements
 
-HasParent use DefferdExceptions trait.
-You can find it here [seotils/deferred-exceptions] (https://github.com/seotils/deferred-exceptions).
+Package depends on *__deferred-exceptions__* package.
+
+1.  GitHub:
+    * [seotils/deferred-exceptions] (https://github.com/seotils/deferred-exceptions)
+
+2.  Composer (packagist.org):
+    * [seotils/deferred-exceptions] (https://packagist.org/packages/seotils/deferred-exceptions)
+
+3.  PHPClasses:
+    * [Deferred Exceptions] (http://www.phpclasses.org/package/9854-PHP-Queue-exceptions-and-throws-them-afterwards.html)
 
 ## Install
 
